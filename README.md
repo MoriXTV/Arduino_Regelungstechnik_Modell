@@ -1,5 +1,7 @@
 Arduino Programm für das Arduino Regelungstechnik Modell
 
+Schaltplan: https://www.tinkercad.com/things/38p00xNCrbk-mighty-crift/editel?tenant=circuits
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Installation:
