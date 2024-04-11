@@ -56,3 +56,5 @@ Visualisierung der Daten mit dem Seiellen Plotter:
 - Richtigen COM Port Auswählen (Werkzeuge -> Port)
 - Seriellen Plotter starten (Werkzeuge -> Serieller Plotter)
 - Unten rechts 115200 Baud einstellen
+
+(Es ist normal, dass der Aduino nach dem starten des seriellen Plotters neu startet)
