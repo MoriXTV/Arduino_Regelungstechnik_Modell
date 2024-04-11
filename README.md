@@ -1,6 +1,6 @@
 Arduino Programm für das Arduino Regelungstechnik Modell
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Installation:
 - Arduino IDE installieren
@@ -8,7 +8,7 @@ Installation:
 - Programm herunterladen
 - Programm Hochladen (richtigen COM Port Auswählen unter Werkzeuge -> Port)
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Liste der benötigten Librarys:
 - https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
@@ -17,10 +17,11 @@ Liste der benötigten Librarys:
 - https://github.com/terryjmyers/PWM
 - https://github.com/br3ttb/Arduino-PID-Library
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Programmbeschreibung:
 Es stehen 8 Modis zur Auswahl. Diese können mit den beiden Knöpfen des Modells angewählt werden:
+
 
 - Mode 0: deaktiviert (Standartmodus nach Einschalten)
 
