@@ -10,7 +10,7 @@ Installation:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Liste der benötigten Librarys:
+Benötigte Librarys:
 - https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 - https://github.com/MattFryer/Smoothed
 - https://github.com/adafruit/MAX6675-library
