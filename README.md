@@ -14,3 +14,8 @@ Liste der benötigten Librarys:
 - https://github.com/adafruit/MAX6675-library
 - https://github.com/terryjmyers/PWM
 - https://github.com/br3ttb/Arduino-PID-Library
+
+
+Programmbeschreibung:
+
+Es stehen 7 Modis zur Auswahl. Diese können mit den beiden Knöpfen des Modells angewählt werden:
