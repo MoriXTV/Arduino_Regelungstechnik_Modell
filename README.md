@@ -6,7 +6,8 @@ Installation:
 - Arduino IDE installieren
 - Librarys herunterladen und in Arduino IDE einbinden (Sketch -> Bibliothek einbinden -> .zip Bibliothek hinzufügen -> Downloads -> Bibliothek auswählen)
 - Programm herunterladen
-- Programm Hochladen (richtigen COM Port Auswählen unter Werkzeuge -> Port)
+- Richtigen COM Port Auswählen (Werkzeuge -> Port)
+- Programm Hochladen
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,3 +46,13 @@ Es stehen 8 Modis zur Auswahl. Diese können mit den beiden Knöpfen des Modells
 - 
 - Mode 7: PD Regelkreis
 - Die Wunschtemperatur wird über das Potentiometer eingestellt. Der PID Reglers ist vollständig aktiv und steuert die Leistung entsprechend der gewünschten ung der gemessenen Temperatur.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Visualisierung der Daten mit dem Seiellen Plotter:
+
+- Adrsuino IDE starten
+- Arduino per USB verbinden
+- Richtigen COM Port Auswählen (Werkzeuge -> Port)
+- Seriellen Plotter starten (Werkzeuge -> Serieller Plotter)
+- Unten rechts 115200 Baud einstellen
